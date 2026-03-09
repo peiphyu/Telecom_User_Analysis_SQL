@@ -5,12 +5,12 @@ The analysis focuses on customer activity, data usage, call usage, and behaviora
 The goal of this project is to demonstrate SQL data transformation, aggregation, and customer segmentation techniques commonly used in telecom analytics.
 
 ## Dataset
-## The dataset used in this project contains synthetic telecom data includings:
-•	Customer Information 
-•	Data Usage 
-•	Call Usage
-•	Plans
-•	Subscriptions
+### The dataset used in this project contains synthetic telecom data includings:
+#### •	Customer Information 
+#### •	Data Usage 
+#### •	Call Usage
+#### •	Plans
+#### •	Subscriptions
 
 ## Table Used
 ### Table Name              Description

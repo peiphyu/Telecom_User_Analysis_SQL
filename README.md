@@ -13,8 +13,8 @@ The goal of this project is to demonstrate SQL data transformation, aggregation,
 #### •	Subscriptions
 
 ## Table Used
-### Table Name              Description
-tbl_customer            Raw customer information
+### Table Name                   ### Description
+#### tbl_customer                #### Raw customer information
 tbl_customer_list      Clean customer base
 tbl_data                customer data usage
 tbl_call                customer call usage

@@ -56,13 +56,13 @@ Balanced Users          Balance usage on data and call
 
 ### SQL Skills Demonstrated
 #### This project demonstrates the following SQL Skills:
-•	Table creation (CREATE TABLE, DROP TABLE) 
-•	Data aggregation (SUM, COUNT)
-•	Conditional logic using CASE statements 
-•	Customer segmentation 
-•	Join operations (LEFT JOIN, INNER JOIN)
-•	Grouping and summarization using GROUP BY 
-•	Customer behavior analysis through data and call usage segmentation
+##### •	Table creation (CREATE TABLE, DROP TABLE) 
+##### •	Data aggregation (SUM, COUNT)
+##### •	Conditional logic using CASE statements 
+##### •	Customer segmentation 
+##### •	Join operations (LEFT JOIN, INNER JOIN)
+##### •	Grouping and summarization using GROUP BY 
+##### •	Customer behavior analysis through data and call usage segmentation
 
 ## Key Insights
 •	Most customers (7,125) are Balanced Users, using both data and call services moderately.

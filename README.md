@@ -47,8 +47,7 @@ The goal of this project is to demonstrate SQL data transformation, aggregation,
 
 ### 6.Behavioral Analysis
 #### Cross analysis of data usage vs call usage to identify customer behavior.
-##### Example segments:
-##### Segment                 
+##### Segments:                 
 ##### Data Users : High data usage but low call usage
 ##### Voice Users : High call usage but low data usage
 ##### Heavy Users  : High data and high call usage

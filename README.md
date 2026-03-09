@@ -15,19 +15,19 @@ The goal of this project is to demonstrate SQL data transformation, aggregation,
 ## Project Workflow
 ### 1.Customer Base Creation
 #### Create a unique customer list from the raw customer table.
-##### tbl_customer_list
+##### Table Name: tbl_customer_list
 
 ### 2.Data Usage Aggregation
 #### Calculate total data usage per customer.
-##### tbl_data_usage_customer
+##### Table Name: tbl_data_usage_customer
 
 ### 3.Call Usage Aggregation
 #### Calculate total call minutes per customer.
-##### tbl_call_usage_customer
+##### Table Name: tbl_call_usage_customer
 
 ### 4.Active Customer Identification
 #### Identify whether customer is Active or Inactive based on data or call activity.
-##### tbl_active_customer
+##### Table Name: tbl_active_customer
 
 ### 5.Customer Segmentation
 #### Customers are segmented based on:

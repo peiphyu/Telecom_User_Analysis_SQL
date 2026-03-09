@@ -12,15 +12,6 @@ The goal of this project is to demonstrate SQL data transformation, aggregation,
 #### •	Plans
 #### •	Subscriptions
 
-## Table Used
-### Table Name                   ### Description
-#### tbl_customer                #### Raw customer information
-tbl_customer_list      Clean customer base
-tbl_data                customer data usage
-tbl_call                customer call usage
-tbl_plans               plans information
-tbl_subscriptions       customer subscriptions
-
 ## Project Workflow
 ### 1.Customer Base Creation
 #### Create a unique customer list from the raw customer table.

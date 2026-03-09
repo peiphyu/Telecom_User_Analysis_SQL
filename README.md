@@ -31,19 +31,19 @@ The goal of this project is to demonstrate SQL data transformation, aggregation,
 
 ### 5.Customer Segmentation
 #### Customers are segmented based on:
-Data Usage Segment
-•	No Usage 
-•	Low
-•	Medium  
-•	High
-•	Very High
+##### Data Usage Segment
+###### •	No Usage 
+###### •	Low
+###### •	Medium  
+###### •	High
+###### •	Very High
 
-Call Usage Segment
-•	No Calls 
-•	Very Low
-•	Low
-•	Medium
-•	High
+##### Call Usage Segment
+###### •	No Calls 
+###### •	Very Low
+###### •	Low
+###### •	Medium
+###### •	High
 
 ### 6.Behavioral Analysis
 #### Cross analysis of data usage vs call usage to identify customer behavior.

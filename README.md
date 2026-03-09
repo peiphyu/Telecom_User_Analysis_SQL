@@ -12,6 +12,9 @@ The goal of this project is to demonstrate SQL data transformation, aggregation,
 #### •	Plans
 #### •	Subscriptions
 
+## SQL File
+<a href="Telecom_User_Analysis.sql"> View SQL </a>
+
 ## Project Workflow
 ### 1.Customer Base Creation
 #### Create a unique customer list from the raw customer table.

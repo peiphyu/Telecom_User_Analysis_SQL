@@ -65,10 +65,10 @@ Balanced Users          Balance usage on data and call
 ##### •	Customer behavior analysis through data and call usage segmentation
 
 ## Key Insights
-### •	Most customers (7,125) are Balanced Users, using both data and call services moderately.
-### • 4,873 customers are Data Users, indicating strong reliance on mobile internet.
-### •	Very few customers (2) are Heavy Users, showing that high usage of both data and voice is rare.
-### •	The results show that data services dominate customer usage patterns.
+#### •	Most customers (7,125) are Balanced Users, using both data and call services moderately.
+#### • 4,873 customers are Data Users, indicating strong reliance on mobile internet.
+#### •	Very few customers (2) are Heavy Users, showing that high usage of both data and voice is rare.
+#### •	The results show that data services dominate customer usage patterns.
 
 
 
